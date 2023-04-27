@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>World Metrics Webapp</b></h3>
+  <h3><b>Task Tracker</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -32,9 +32,9 @@
 
 # 📖 World Metrics <a name="about-project"></a>
 
-"World Metrics" is a single page web application that allows users to:
+"Task Tracker" is a single page web application that allows users to:
 
-- To check world continents/countries information, e.g: Population, Flags, Currencies, Languages, Longitude, Latitude, & Air Pollution Data etc.
+- To add task, delete task, set reminders for task using a json server which is mock rest API that makes a fetch request.
 
 <!-- BUILT WITH -->
 
@@ -52,10 +52,8 @@
 
 The key features of this website include.
 
-- Interaction with "REST Countries" API.
-- Continents info at Home page.
-- Search countries by name at "Continent Detail" page.
-- View detailed data about selected country at "Country Detail" page.
+- Interaction with a json server.
+- Add task, delete, update task.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,9 +61,7 @@ The key features of this website include.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://world-app.onrender.com)
-
-- [Demo Video Link](https://www.loom.com/share/1094cd75a9164ca4a4fac224a553200e)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,9 +88,7 @@ Clone this repository to your desired folder:
 4. Clone the repo using the below command
 
 ```sh
-  git clone  https://github.com/theodoku/metrics-webapp.git
-
-  cd Metrics-Webapp
+  git clone https://github.com/theodoku/tasks-tracker.git
 ```
 
 ### Install
@@ -173,7 +167,7 @@ The collaborators of this project.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/theodoku/metrics-webapp/issues).
+Feel free to check the [issues page](https://github.com/theodoku/tasks-tracker/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,10 +185,7 @@ Give a ⭐️, if you like this project!
 
 I would like to thank:
 
-- [Microverseinc](https://github.com/microverseinc) for [Readme-template](https://github.com/microverseinc/readme-template).
-- [Nelson Sakwa at Behance](https://www.behance.net/sakwadesignstudio) for creating this beautiful [App design](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>).
-- [Alejandro Matos](https://gitlab.com/amatos) for [REST Countries API](https://restcountries.com/#license).
-- [OpenWeather](https://openweathermap.org) for [Air Pollution API](https://openweathermap.org/api/air-pollution)
+- Traversy Media for his React JS Crash Course https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGlwZTdUZnB0SzFHUUNGY2lmZnFVU2JtM1BnUXxBQ3Jtc0trYmY1aFJuUGZtNXlFWWFucENiZURGUjN6MWVodzdEQW9PV0l1Q25nVUYzdGVXMmVpajRBa01pbkNhQUZ2RVMwcDgwRzZBOVVrNEEtVURfMndWX3hhSzlMenBPQXRCZjJYTG56aU1DSUdHSGlYWnRjYw&q=https%3A%2F%2Fgithub.com%2Fbradtraversy%2Freact-crash-2021&v=w7ejDZ8SWv8
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
