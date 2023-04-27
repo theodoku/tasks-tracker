@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Movies Night",
+      "day": "Thursday 26th 10:00 pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Go for shopping",
+      "day": "April 30th 12 noon",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
